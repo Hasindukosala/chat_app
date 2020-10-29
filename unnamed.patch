@@ -1,0 +1,8 @@
+Index: lib/services/database.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lib/services/database.dart	(date 1603875952128)
++++ lib/services/database.dart	(date 1603875952128)
+@@ -0,0 +1,0 @@
